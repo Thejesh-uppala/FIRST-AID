@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">First Aid </string>
+    <string name="login">Login</string>
+    <string name="enter_username">Enter UserName</string>
+    <string name="enter_password">Enter Password</string>
+    <string name="login_user">Login User</string>
+    <string name="new_user">New user?</string>
+    <string name="signup">Signup</string>
+    <string name="signup_form">Signup Form</string>
+    <string name="enter_username1">Enter UserName</string>
+    <string name="enter_password1">Enter Password</string>
+    <string name="register_user">Register User</string>
+</resources>
